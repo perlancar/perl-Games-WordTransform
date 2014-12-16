@@ -27,7 +27,7 @@ my $game = Games::WordTransform->new(%opts);
 $game->run;
 
 # ABSTRACT: Word transform game
-# PODNAME: wordtransform
+# PODNAME:
 
 =head1 SYNOPSIS
 
