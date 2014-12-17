@@ -16,6 +16,11 @@ our @EXPORT_OK = qw(create_word_transform);
 
 our %SPEC;
 
+$SPEC{':package'} = {
+    v => 1.1,
+    summary => 'Word transform game',
+};
+
 $SPEC{create_word_transform} = {
     v => 1.1,
     summary => 'Create a letter-by-letter transformation from one word '.
@@ -192,7 +197,7 @@ sub run {
 }
 
 1;
-# ABSTRACT: Word transform game
+# ABSTRACT:
 
 =for Pod::Coverage ^(.+)$
 
