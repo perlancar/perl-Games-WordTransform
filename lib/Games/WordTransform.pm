@@ -199,6 +199,8 @@ sub run {
 1;
 # ABSTRACT:
 
+=pod
+
 =for Pod::Coverage ^(.+)$
 
 =head1 SYNOPSIS
