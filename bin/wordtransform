@@ -133,18 +133,3 @@ Only words containing the lowercase latin letter a-z are used.
 Number of words per game.
 
 
-=head1 TODO
-
-=over
-
-=item * Level of difficulty (affects min_len, max_len, min_steps, max_steps)
-
-=item * Write statistics file
-
-=item * Colors
-
-=item * Add timeout for each step
-
-=back
-
-=cut
